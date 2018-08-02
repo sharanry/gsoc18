@@ -22,3 +22,6 @@ Non-Centered Eight Schools Model with PyMC4](https://sharanry.github.io/post/eig
  - [Add credits](
 https://github.com/pymc-devs/pymc4/pull/16)
  - [Add HalfCauchy distribution](https://github.com/pymc-devs/pymc4/pull/17)
+
+
+Note: Most of my work is on the `functional` branch of [pymc4](https://github.com/pymc-devs/pymc4/) right now. 
